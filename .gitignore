@@ -1,0 +1,17 @@
+# 忽略 .idea 目录
+.idea/
+
+*.pth
+*.zip
+*.tar.gz
+
+# 忽略所有以 data_batch 开头的文件或目录
+*_batch*
+
+.ipynb_checkpoints
+*.DS_Store
+*.egg-info
+*__pycache__
+*.pkl
+*.jpg
+.vscode/
